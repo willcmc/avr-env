@@ -1,5 +1,5 @@
-# avr-env
-Repo for AVR testing and development
+# Welcome to my AVR sandbox!
+This is a repo for AVR testing and development, and serves as a compendium of my work.
 
 ### test-asm
 - Mixing C and ASM

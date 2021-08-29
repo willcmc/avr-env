@@ -1,0 +1,8 @@
+.GLOBAL toggleBRoutine
+.EQU PORTB, 0x18
+
+toggleBRoutine:
+	IN R18,PORTB
+	COM R18
+	OUT PORTB,R18
+	RET
